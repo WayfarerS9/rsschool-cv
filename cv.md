@@ -51,3 +51,12 @@ GIT
     }
 </style> 
 ```
+## Work experience
+I'm studying
+## Education
+1. Training «Fundamentals of Web technologies», completed July 2021 (IT Academy)
+2. Basic course «Development of websites using HTML, CSS and JavaScript». In process. End date - September 2021 (IT Academy).
+3. JS/Frontend development course. The preparatory stage. In process. End date - September 2021 (RS School.) 
+## English language proficiency (CEFR): 
+B1
+
