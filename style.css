@@ -1,0 +1,131 @@
+main {
+    display: flex;
+    margin: auto;
+    width: 75%;               
+}
+
+
+.left {       
+    background-color: #353945;
+    flex-basis: 100%;
+    color: #d1c1ff;            
+}
+
+.left-first {
+    background-color: #353945;
+}
+
+img {
+    width: 100%;
+}
+
+.left-second {
+    background-color: #353945;
+    font-family: 'Nanum Pen Script', cursive;            
+}
+
+.line {
+    border-left: #32127a 1em solid;
+    background:  #434753;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;
+    color: #353945;
+    text-shadow: 0px 0px 4px #cec5ff;          
+}
+
+figure {
+    font-size: 1.5em;
+    padding-right: 0.5em;
+    margin-bottom: 1em;
+}
+
+h3 {
+    margin-bottom: 0em;
+}
+
+.left-third {
+    background-color: #353945;
+    font-family: 'Nanum Pen Script', cursive;                     
+}
+
+ol {
+    font-size: 1.5em;
+    padding-right: 0.4em;            
+}
+
+.right {
+    background-color: #6c7180;
+    color: #e5def7;
+}
+
+.right-first {
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center;   
+    margin-bottom: 2em;             
+    text-shadow: -1px -1px 0px #000000;
+}
+
+h1 {
+    margin-bottom: 0em;    
+}
+
+.line-right {
+    border-right: #32127a 1em solid;
+    background:  #434753;
+    font-family: 'Otomanopee One', sans-serif;
+    text-align: center; 
+    font-size: 1em;
+    color: #6c7180;   
+    text-shadow: -1px 0px 3px #0e0d10;
+}   
+
+section {
+    font-family: 'Nanum Pen Script', cursive;                       
+}
+
+.right-second {
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.5em;
+    text-indent: 1em;
+}
+
+.right-third {
+    font-family: 'Nanum Pen Script', cursive;                       
+}
+
+.right-third-block {
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.5em;
+    text-indent: 1em;
+}
+
+.right-forth {
+    font-family: 'Nanum Pen Script', cursive;                       
+}
+
+.right-forth-block {
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.5em;                        
+}
+
+footer {
+    margin: auto;
+    width: 75%;           
+    background-color: #c3c6d0;   
+}
+
+footer img {
+    width: 10%;    
+}
+
+h4 {
+    margin-top: 0em;
+
+}
+
+h5 {
+    margin-bottom: 0em;
+}
