@@ -1,1 +1,1 @@
-https://WayfarerS9.github.io/rsschool-cv/cv
+https://WayfarerS9.github.io/rsschool-cv/
